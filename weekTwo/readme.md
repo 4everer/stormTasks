@@ -3,6 +3,8 @@ Storm词频统计程序
 
 Team Member: 顾炜，杨光
 
+[github](https://github.com/4everer/stormTasks/tree/master/weekTwo)
+
 **任务要求**
 
 >1.形成《利用Storm词频统计程序报告》（包含程序说明，测试说明，结果介绍）
